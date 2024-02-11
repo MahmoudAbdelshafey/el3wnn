@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98408406772",
+    "project_id": "el3wn-3c1a4",
+    "storage_bucket": "el3wn-3c1a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98408406772:android:db9851bacd0c9ee52ac8a1",
+        "android_client_info": {
+          "package_name": "com.example_el3wn.el3wnn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpnIBaRBdCuxuO948PSTAP5a7jP0dP1dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
