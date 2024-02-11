@@ -78,7 +78,7 @@ class _Sign_UpState extends State<Sign_Up> {
                 Container(
 
                   width: sizeH*100,
-                  height: sizeV*90,
+                  height: sizeV*95,
                   decoration: BoxDecoration(
                     color: Colors.white,
                       borderRadius: BorderRadius.vertical(top:  Radius.circular(40)) ),
